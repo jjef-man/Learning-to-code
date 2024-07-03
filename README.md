@@ -24,4 +24,7 @@ Understand how flexbox works
 #### GIT Hub desktop
 Started using GIT hub desktop  
 Made my first repository and pushed in on GIT hub  
-Transferred all my notes from the previous tutorials  
+Transferred all my notes from the previous tutorials
+
+### July 2, 2024
+
