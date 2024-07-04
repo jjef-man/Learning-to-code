@@ -28,4 +28,9 @@ Transferred all my notes from the previous tutorials
 
 ### July 2, 2024
 Uploaded first project in GIThub the "firstSPA" project
+Started the Farmhouse webpage
+
+### July 3, 2024
+Continued learing the basics of CSS thru freecodecamp
+Farmhouse webpage continuation
 

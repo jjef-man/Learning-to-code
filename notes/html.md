@@ -2,6 +2,8 @@
 
 ## HTML notes
 
+<meta name="viewport" content="width=device-width, initial scale=1.0"/>
+
 #### Keyboard shortcuts
 
 **ALT+Z** - toggle word wrap in command line interface    
@@ -31,3 +33,4 @@ Try to make a daily commit to paint the activity more green.
     - medium - 768px    > use in media query *@media (min-width: value)*
     - large - 1024px    >
 5. jankcss.com
+
