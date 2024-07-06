@@ -6,7 +6,6 @@
 
 #### Started learning HTML basics
 Went to freecodecamp for free coding guides and finished the first exercise "Building Cat Photo App"  
-Watch Youtube videos and seen a lot of tutorials and guides in learning how to code
 
 ### June 25, 2024
 
@@ -33,4 +32,8 @@ Started the Farmhouse webpage
 ### July 3, 2024
 Continued learing the basics of CSS thru freecodecamp  
 Farmhouse webpage continuation
+
+### July 5, 2024
+Continued learning HTML and CSS thru freecodecamp
+Found an educator in Youtube that uploads significant and substantial contents about HTML and CSS
 
