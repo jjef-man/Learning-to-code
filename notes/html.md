@@ -9,7 +9,7 @@ The line above is used for mobile responsivity
 
 **ALT+Z** - toggle word wrap in command line interface    
 **ALT+Left Click** - create multiple cursors  
-**CTRL+SHIFT+L** - Select and replace all reocurrence
+**CTRL+SHIFT+L** - Select and replace all reocurrence  
 **CMD+/** - comment the selected text or line  
 
 
@@ -18,7 +18,16 @@ The line above is used for mobile responsivity
 Asterisk means all html elements.  
 Styling priority is #id>.class>child_element>parent_element.  
 Style that takes over when the browser meet the minimum width requirement.  
-@media (minwidth; 540px) . . .  
+
+        @media (minwidth; 540px) {
+
+        }
+        
+Another type of selector 
+
+        *input[type="submit"]* {
+                
+        }
 
 ## GIT hub notes
 
