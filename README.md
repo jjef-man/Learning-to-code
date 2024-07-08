@@ -34,6 +34,6 @@ Continued learing the basics of CSS thru freecodecamp
 Farmhouse webpage continuation
 
 ### July 5, 2024
-Continued learning HTML and CSS thru freecodecamp
+Continued learning HTML and CSS thru freecodecamp  
 Found an educator in Youtube that uploads significant and substantial contents about HTML and CSS
 
