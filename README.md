@@ -30,10 +30,22 @@ Uploaded first project in GIThub the "firstSPA" project
 Started the Farmhouse webpage
 
 ### July 3, 2024
-Continued learing the basics of CSS thru freecodecamp  
+Continue learing the basics of CSS thru freecodecamp  
 Farmhouse webpage continuation
 
 ### July 5, 2024
-Continued learning HTML and CSS thru freecodecamp  
+Continue learning HTML and CSS thru freecodecamp  
 Found an educator in Youtube that uploads significant and substantial contents about HTML and CSS
 
+### July 6, 2024
+Continue learning HTML and CSS thru freecodecamp  
+Continue watching tutorials  
+
+### July 7, 2024
+Continue learning HTML and CSS thru freecodecamp  
+Continue watching tutorials  
+
+### July 11, 2024
+Continue doing my project theFarmhouse  
+Continue learning HTML and CSS thru freecodecamp  
+Continue watching tutorials  
