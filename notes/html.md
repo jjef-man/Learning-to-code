@@ -19,7 +19,7 @@ Asterisk means all html elements.
 Styling priority is #id>.class>child_element>parent_element.  
 Style that takes over when the browser meet the minimum width requirement.  
 
-        @media (minwidth; 540px) {
+        @media (min-width; 540px) {
 
         }
         
