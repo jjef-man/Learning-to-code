@@ -17,7 +17,11 @@ Form - post - action - submit
 **ROLE** attribute can be used to indicate the purpose behind the element on the page to assistive technologies.  
 The **ROLE** attribute is a part of the *Web Accessibility Initiative* (WAI), and accepts preset values.  
 Every **ROLE** needs a label. One method of adding a label is by adding a heading element inside it and reference is as **ARIA-LABELLEDBY** attribute.  
-**label - for** - It is important to link each input to the corresponding label element. This provides assistive technology users with a visual reference to the input.
+**Label - for** - It is important to link each input to the corresponding label element. This provides assistive technology users with a visual reference to the input.  
+The **accesskey** attribute accepts a space-separated list of access keys.  
+For example:  
+
+        <button type="submit" accesskey="s">Submit</button>
 
 ### Keyboard shortcuts
 
