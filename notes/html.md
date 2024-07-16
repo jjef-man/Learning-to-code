@@ -36,6 +36,12 @@ Style that takes over when the browser meet the minimum width requirement.
         @media (min-width; 540px) {
 
         }
+
+        @media (feature: value) {
+          selector {
+            styles
+          }
+        }
         
 Another type of selector 
 
@@ -45,7 +51,20 @@ Another type of selector
 
 ### Accessibilities to keep in mind
 
-Typeface plays and important role in accessibility of a page. Some fonts are easier to read that others, and this is especially true to low-resolution screens.
+Typeface plays and important role in accessibility of a page. Some fonts are easier to read that others, and this is especially true to low-resolution screens.  
+CSS Codes to hide a text for screen readers
+
+        .sr-only {
+          position: absolute;
+          width: 1px;
+          height: 1px;
+          padding: 0;
+          margin: -1px;
+          overflow: hidden;
+          clip: rect(0, 0, 0, 0);
+          white-space: nowrap;
+          border: 0;
+        }
 
 ## GIT hub notes
 
