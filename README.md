@@ -49,3 +49,8 @@ Continue watching tutorials
 Continue doing my project theFarmhouse  
 Continue learning HTML and CSS thru freecodecamp  
 Continue watching tutorials  
+
+### July 15, 2025
+Learned CSS box model by building Rothko Painting  
+Learned Flexbox by building a Photo Gallery  
+Learned Typography by building Nutrition Label
