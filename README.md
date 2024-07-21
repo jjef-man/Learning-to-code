@@ -27,11 +27,11 @@ Transferred all my notes from the previous tutorials
 
 ### July 2, 2024
 Uploaded first project in GIThub the "firstSPA" project  
-Started the Farmhouse webpage
+
 
 ### July 3, 2024
 Continue learing the basics of CSS thru freecodecamp  
-Farmhouse webpage continuation
+
 
 ### July 5, 2024
 Continue learning HTML and CSS thru freecodecamp  
@@ -45,8 +45,7 @@ Continue watching tutorials
 Continue learning HTML and CSS thru freecodecamp  
 Continue watching tutorials  
 
-### July 11, 2024
-Continue doing my project theFarmhouse  
+### July 11, 2024 
 Continue learning HTML and CSS thru freecodecamp  
 Continue watching tutorials  
 
@@ -54,3 +53,6 @@ Continue watching tutorials
 Learned CSS box model by building Rothko Painting  
 Learned Flexbox by building a Photo Gallery  
 Learned Typography by building Nutrition Label
+
+### July 16 - 21, 2024
+Started the airBnb project
