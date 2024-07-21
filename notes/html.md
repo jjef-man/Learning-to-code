@@ -87,13 +87,51 @@ Display grid
                 grid-template-columns: repeat(1, minmax(0,1fr));
         }
 
+                grid-template-columns: repeat(4, minmax(0,1fr));
+
+        .element {
+                grid-column: span 3/ span 3;
+
+Center item using display grid
+
+        .element {
+                display: grid;
+                place-items: center;
+        }
+
 Z-index
 
         .element {
                 position: relative;
-                z-index: 10;
+                z-index: 1;
         }
 
+Change the color of highlight when a text is selected
+
+        p::selection,
+        h1::selection,
+        h2::selection {
+                background-color: black;
+                color: white;
+        }
+
+Smooth scrolling
+
+        html {
+                scroll-behavior: smooth;
+        }
+
+Before/after psuedo elements
+
+        nav::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background-color: transparent;
+            opacity: .1;
+            box-shadow: 0 0 5px 2px black;
+        }
+        
 ### Accessibilities to keep in mind
 
 Typeface plays and important role in accessibility of a page. Some fonts are easier to read that others, and this is especially true to low-resolution screens.  
