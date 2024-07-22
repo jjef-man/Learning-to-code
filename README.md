@@ -54,5 +54,9 @@ Learned CSS box model by building Rothko Painting
 Learned Flexbox by building a Photo Gallery  
 Learned Typography by building Nutrition Label
 
-### July 16 - 21, 2024
+### July 16 - 20, 2024
 Started the airBnb project
+
+### July 21, 2024
+Finished and published the airBnb project
+Started learning Tailwind CSS
