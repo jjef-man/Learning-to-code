@@ -60,3 +60,6 @@ Started the airBnb project
 ### July 21, 2024
 Finished and published the airBnb project
 Started learning Tailwind CSS
+
+### July 22, 2024
+Started building my Web Portfolio
