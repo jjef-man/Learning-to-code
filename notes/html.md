@@ -160,7 +160,10 @@ CSS Codes to hide a text for screen readers
     - large - 1024px    >
 5. jankcss.com
 
-## GIT hub notes
+## Tailwind CSS notes
 
-Try to make a daily commit to paint the activity more green.
+### Starting a Tailwind CSS porject
+
+The steps can be found in the link below:  
+https://tailwindcss.com/docs/guides/vite
 
