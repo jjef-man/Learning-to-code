@@ -11,6 +11,11 @@ Went to freecodecamp for free coding guides and finished the first exercise "Bui
 
 #### Still on HTML basics
 Still learning the HTML basics and some CSS basics
+Started following this guy from youtube
+
+    https://www.youtube.com/@Smoljames
+
+Go check him out, his videos are very useful for beginners and are very straight-forward
 
 ### June 27, 2024
 
