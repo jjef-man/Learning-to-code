@@ -73,6 +73,15 @@ Style that takes over when the browser meet the minimum width requirement.
             styles
           }
         }
+
+Used to make the bullet stick to the text of the list
+
+        ul  {
+          padding-left: 0;
+        }
+        ul li {
+           list-style-position: inside;
+        }
         
 Another type of selector 
 
