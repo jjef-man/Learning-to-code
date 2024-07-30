@@ -75,3 +75,6 @@ Finished and published my Web Portfolio *(This project is gonna be WIP as I will
 ### July 26, 2024
 Started learning JavaScript using nodeJS
 
+### July 30, 2024
+Still learning JavaScript
+
