@@ -178,14 +178,44 @@ https://tailwindcss.com/docs/guides/vite
 
 ## JavaScript notes
 
-Primitive
+### Primitive
+
 1. **Number** - numerical values, including integers, decimals, and exponents. *(e.g., 1, 3.14, 1e5)*.  
 2. **String** - sequences of characters enclosed in quotes. *(e.g., "Jane's", 'Hello', "")*.  
 3. **Boolean** - truth values, either true or false. *(e.g., true, false)*.  
 4. **Null** - absence of a value. It's different from undefined. *(e.g., null)*.  
 5. **Undefined** - absence of a value due to not being assigned yet or a reference pointing to nowhere. *(e.g., undefined)*.  
    
-Object
+### Object
+
 1. **Object *(or dictionary)*** - is a complex data type that allows you to store collections of key-value pairs.   *{ name: Jane, age: 25 }*.  
 2. **Array *(or list)*** - is a special type of object used to store ordered collections of values.   *[1, 2, 3, 4]*.  
-3. **Function** - is a subtype of object that can be invoked/called.   *function add(x, y) { return x + y; }*.  
+3. **Function** - is a subtype of object that can be invoked/called.   *function add(x, y) { return x + y; }*.
+
+### Arithmetic Operators
+
+Addition (+): let sum = 5 + 6  
+Subtraction (-): let difference = 11 - 2  
+Multiplication (*): let product = 8 * 6  
+Division (/): let quotient = 10 / 5  
+Modulus (%): let remainder = 8 % 3; // 2 (remainder)  
+
+### Assignment Operators
+
+Assignment (=): let x = 1;  
+
+### Comparison Operators
+
+Equal (==): let isEqual = 5 == '5'; // true (loose equality, type coercion)  
+Strict Equal (===): let isStrictEqual = 5 === '5'; // false (strict equality, no type coercion)  
+Not Equal (!=) and Not Strict Not Equal (!==): let notEqual = 10 != '10'; // false let strictNotEqual = 10 !== '10'; // true  
+
+### Logical Operators
+
+Logical AND (&&):  
+Logical OR (||):  
+Logical NOT (!):  
+
+### Other Operators
+
+typeof Operator: let type = typeof variable; // Returns the type of the variable  
