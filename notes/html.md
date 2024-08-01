@@ -95,13 +95,22 @@ Display grid
                 display: grid;
                 grid-template-columns: repeat(1, minmax(0,1fr));
         }
-
-                grid-template-columns: repeat(4, minmax(0,1fr));
-
+        
+             /* grid-template-columns: repeat(4, minmax(0,1fr));
+                grid-template-columns: minmax(2rem, 1fr) minmax(min-content, 94rem) minmax(2rem, 1fr);
+                grid-template-columns: repeat(2, 1fr);
+                grid-template-columns: 1fr 2fr;
+                column-width: 25rem;
+             */
+                
         .element {
                 grid-column: span 3/ span 3;
+                grid-column: 2 / 3;
+                grid-auto-flow: column;
+                grid-auto-columns: 1fr;
+        }
 
-Center item using display grid
+Position item in center using grid
 
         .element {
                 display: grid;
