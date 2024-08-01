@@ -140,6 +140,34 @@ Before/after psuedo elements
             opacity: .1;
             box-shadow: 0 0 5px 2px black;
         }
+
+CSS animation
+
+        @keyframes [name] {
+          0% {
+    transform: rotate(0deg);
+          }
+          25% {
+    background-color: yellow;
+          }
+          50% {
+    background-color: purple;
+          }
+          100% {
+    transform: rotate(-360deg);
+          }
+        }
+
+        [selector] {
+                animation-name: [name];
+                animation-duration: 5s; or ms
+                animation-timing-function: linear; or ease-in-out
+                animation-iteration-count: infinite; or definite time value
+        }
+
+        [selector] {
+                animation: [name] 5s linear infinite;
+        }
         
 ### Accessibilities to keep in mind
 
